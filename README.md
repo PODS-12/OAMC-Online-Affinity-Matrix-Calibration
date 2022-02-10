@@ -1,13 +1,16 @@
 # Online Affinity Matrix Calibration (OAMC)
 
 Supplementary materials for "Online Affinity Matrix Calibration with Incomplete Observations"
+
 (SIGKDD'2022 submission #730)
 
 The code has been tested on MATLAB R2016b and R2020a. It should be able to run on other recent versions.
 
-Main files:
---example_main.m: demo of missing data processing in Section 5.3
---example_scale.m: demo of scalable extention in Section 5.4
+## Main files:
+
+### example_main.m: demo of missing data processing in Section 5.3
+
+### example_scale.m: demo of scalable extention in Section 5.4
 
 Baseline_MVI (missing value imputation):
 --impute_zero.m: ZERO Imputation 
