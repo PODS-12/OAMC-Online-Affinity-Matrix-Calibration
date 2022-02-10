@@ -31,7 +31,7 @@ The code has been tested on MATLAB R2016b and R2020a. It should be able to run o
 
 ## Other files:
 
-- demo_data.mat: data file for demo_missing.m
+- demo_data.mat: data file for example_main.m and example_scale.m
 - similarity.m: approximate similarity matrix with incomplete samples
 
 
