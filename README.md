@@ -22,15 +22,17 @@ The code has been tested on MATLAB R2016b and R2020a. It should be able to run o
 - impute_kfmc.m: KFMC Imputation
 
 ## Baseline_MC (matrix calibration):
---calibrate_dmc.m: DMC Calibration
---calibrate_cmc.m: CMC Calibration
---calibrate_oamc.m: OAMC Calibration
---calibrate_oamc_block.m: Block OAMC Calibration
---calibrate_soamc.m: Scalable OAMC Calibration
 
-Other files:
---demo_data.mat: data file for demo_missing.m
---similarity.m: approximate similarity matrix with incomplete samples
+- calibrate_dmc.m: DMC Calibration
+- calibrate_cmc.m: CMC Calibration
+- calibrate_oamc.m: OAMC Calibration
+- calibrate_oamc_block.m: Block OAMC Calibration
+- calibrate_soamc.m: Scalable OAMC Calibration
+
+## Other files:
+
+- demo_data.mat: data file for demo_missing.m
+- similarity.m: approximate similarity matrix with incomplete samples
 
 
 Feb. 9th, 2022
