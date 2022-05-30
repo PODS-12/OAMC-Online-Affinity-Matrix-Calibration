@@ -2,7 +2,7 @@
 
 Supplementary materials for "Online Affinity Matrix Calibration with Incomplete Observations"
 
-(SIGKDD'2022 submission #730)
+(PODS'2023 submission #12)
 
 The code has been tested on MATLAB R2016b and R2020a. It should be able to run on other recent versions.
 
@@ -35,4 +35,4 @@ The code has been tested on MATLAB R2016b and R2020a. It should be able to run o
 - similarity.m: approximate similarity matrix with incomplete samples
 
 
-Feb. 9th, 2022
+May. 30th, 2022
